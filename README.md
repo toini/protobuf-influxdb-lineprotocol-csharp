@@ -1,1 +1,1 @@
-# ProtobufInfluxDbLineProtocolFormatter
+# protobuf-influxdb-lineprotocol-csharp
